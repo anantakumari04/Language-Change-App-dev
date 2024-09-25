@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MultiLanguageApp</string>
+    <string name="change_language">Change Language</string>
+    <string name="welcome_message">Welcome to the Multi-Language App!</string>
+    <style name="Base.Theme.Language" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Language" parent="Base.Theme.Language"/>
+</resources>
